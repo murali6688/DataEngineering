@@ -1,0 +1,24 @@
+object Timer {
+var count: Int = 0
+def currentCount(): Long = {count += 1
+count
+}
+}
+Timer
+Timer.currentCount
+Timer.currentCount
+Timer.currentCount
+Timer.currentCount
+Timer.currentCount
+Timer.currentCount
+Timer.currentCount
+res7
+Timer.currentCount
+Timer.currentCount()
+Timer.currentCount()
+Timer.currentCount()
+Timer.currentCount()
+Timer.currentCount()
+Timer.currentCount()
+Timer.currentCount()
+Timer.currentCount()
